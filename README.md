@@ -28,5 +28,5 @@ Hi there! I'm Mario Morcos, a passionate Computer Engineer who loves to code.
 
 ## 🤝 Let's connect!
 
-Feel free to reach out for collaborations, discussions, or just to say hi! Connect with me on [LinkedIn](www.linkedin.com/in/mario-morcos-11577b21a)
+Feel free to reach out for collaborations, discussions, or just to say hi! Connect with me on [LinkedIn](https://www.linkedin.com/in/mario-morcos-11577b21a)
 

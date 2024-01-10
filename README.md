@@ -24,7 +24,7 @@ Hi there! I'm Mario Morcos, a passionate Computer Engineer who loves to code.
 ## 📫 How to reach me
 
 - [Email](mailto:mariomorcoswassily@gmail.com)
-- [LinkedIn](www.linkedin.com/in/mario-morcos-11577b21a)
+- [LinkedIn](https://www.linkedin.com/in/mario-morcos-11577b21a)
 
 ## 🤝 Let's connect!
 

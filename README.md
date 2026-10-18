@@ -1,32 +1,10 @@
-# Welcome to My GitHub Profile! 👋
+# ⚡ Mario Morcos — Computer Engineer building bold ideas in Python, VHDL, web development, and beyond.
 
-## About Me ℹ️
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmm12344&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmm12344&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-Hi there! I'm Mario Morcos, a passionate Computer Engineer who loves to code. 
-
-## 🔭 I’m currently working on...
-
-- [Python to VHDL converter](https://github.com/mmm12344/Python-to-vhdl-converter): A tool used to convert python code to VHDL with ease!
-- [Sounders](https://github.com/mmm12344/Sounders): A GUI to Play music from a server, A tamed version of Spotify.
-
-## 🌱 I’m currently learning...
-
-- [Asp.net Core](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0)
-- [Django](https://docs.djangoproject.com/en/5.0/)
-- [Autonomous Cars](https://en.wikipedia.org/wiki/Self-driving_car)
-
-## 💬 Ask me about...
-
-- Web Development
-- APIs
-- Python
-
-## 📫 How to reach me
-
-- [Email](mailto:mariomorcoswassily@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mario-morcos-11577b21a)
-
-## 🤝 Let's connect!
-
-Feel free to reach out for collaborations, discussions, or just to say hi! Connect with me on [LinkedIn](https://www.linkedin.com/in/mario-morcos-11577b21a)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mmm12344&theme=tokyonight&hide_border=true" />
+</p>

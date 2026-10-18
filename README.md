@@ -1,4 +1,4 @@
-# ⚡ Mario Morcos — Computer Engineer building bold ideas in Python, VHDL, web development, and beyond.
+# Mario Morcos — Computer Engineer building bold ideas.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mmm12344&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
